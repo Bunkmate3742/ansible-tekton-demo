@@ -14,7 +14,6 @@ metadata:
     pipelinesascode.tekton.dev/task-6: "[.tekton/tasks/semantic-release.yaml]"
     pipelinesascode.tekton.dev/task-7: "[.tekton/tasks/skopeo-copy.yaml]"
     pipelinesascode.tekton.dev/task-8: "[.tekton/tasks/delete-image-stream.yaml]"
-    pipelinesascode.tekton.dev/task-9: "[.tekton/tasks/delete-image-stream.yaml]"
     pipelinesascode.tekton.dev/on-target-branch: "[main]" 
     pipelinesascode.tekton.dev/on-event: "[push]"
 spec:
